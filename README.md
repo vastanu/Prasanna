@@ -8,7 +8,8 @@ Here is the detailed information of code execution:
 - Uploaded <README_Code_Challenge> text file
 - Uploaded Python script file  <codeassignment.py>
 
-In cmd prompt RUN as below, to get expected output and displays on the screen.
+In cmd prompt RUN as below, to get expected output and displays on the screen
+
 ./codeassignment.py <enter>
 
 
